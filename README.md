@@ -2,7 +2,7 @@
 
 **Organize smarter, not faster.**
 
-SlothSort is a local AI-powered file organizer built with Python, Streamlit, and Ollama. It helps users understand their cluttered folders, categorize files, identify duplicates, and review organization suggestions before moving files.
+SlothSort is a local AI-powered file organizer built with Python, Streamlit, and Ollama. It helps users understand their cluttered folders, categorize files, identify duplicates, and review organization suggestions before moving the files.
 
 Inspired by the idea of *Slow and Steady*, SlothSort prioritizes deliberate, transparent, and user-controlled file organization over risky automation.
 
